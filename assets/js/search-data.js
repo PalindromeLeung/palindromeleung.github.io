@@ -440,16 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-will-be-visiting-my-co-advisor-professor-chris-fletcher-at-uc-berkeley-sparkles",
+          title: 'I will be visiting my co-advisor Professor Chris Fletcher at UC Berkeley! :sparkles:...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -522,7 +514,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=DBelQ6IAAAAJ", "_blank");
         },
       },{
         id: 'social-custom_social',
