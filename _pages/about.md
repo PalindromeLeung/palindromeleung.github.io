@@ -27,14 +27,14 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 "I keep the subject constantly before me, and wait 'till the first dawnings open slowly, by little and little, into a full and clear light." -- Isaac Newton
 
-I'm currently working with [Dr. Talia Ringer](https://dependenttyp.es) and [Dr. Christopher W. Fletcher](http://cwfletcher.net) on verifying security properties of [Oblivious RAM](https://en.m.wikipedia.org/wiki/Oblivious_RAM). 
-
+I'm currently working with [Dr. Talia Ringer](https://dependenttyp.es) and [Dr. Christopher W. Fletcher](http://cwfletcher.net) on verifying security properties of [Oblivious RAM](https://en.m.wikipedia.org/wiki/Oblivious_RAM).
 
 I love talking to people who are passionate about programming language design and verification, computer systems, meta theory, formal systems, computational geometry and entrepreneurship.
 
-If you'd like to chat, book me via [this link](https://hleung.youcanbook.me). 
+If you'd like to chat, book me via [this link](https://hleung.youcanbook.me).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
