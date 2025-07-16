@@ -1,3 +1,12 @@
+---
+layout: post
+date: 2025-07-01 15:59:00-0400
+inline: true
+related_posts: false
+---
+
+I will serve on the committee of <a href="https://coq-workshop.gitlab.io/2025/">The Rocqshop 2025</a>.
+
 <!-- ---
 layout: post
 title: A long announcement with details
